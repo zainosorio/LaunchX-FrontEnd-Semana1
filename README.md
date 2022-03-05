@@ -1,2 +1,2 @@
 # Catas de la semana 1 de Front-End
-LaunchX-FrontEnd-Semana1/Abogabot - Requerimientos.pdf
+https://github.com/zainosorio/LaunchX-FrontEnd-Semana1/blob/main/Abogabot%20-%20Buyer%20Persona.pdf
